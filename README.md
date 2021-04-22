@@ -1,7 +1,7 @@
 # nautobot-dark-css
 dark theme for nautobot and maybe netbox?
 
-![nautobot](/nbot-dark.PNG)
+![nautobot](/nbot-dark.gif)
 
 ### getting started
 - ensure you have a [nautobot](https://github.com/nautobot) instance running
